@@ -1,0 +1,11 @@
+# These all appear to be hidden files from various IDEs & Operating Systems.
+# These probably belong in ~/.gitignore_global and not in here.
+# See https://help.github.com/articles/ignoring-files
+.DS_Store
+.buildpath
+.project
+.settings
+.idea
+
+# composer installed dependencies
+vendor

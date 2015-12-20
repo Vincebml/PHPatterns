@@ -1,0 +1,28 @@
+{
+    "name": "vincebml/phpatterns",
+    "description": "The 23 Gang of Four (GoF) design patterns written in PHP.",
+    "keywords": ["php", "design patterns"],
+    "authors": [
+        {
+            "name": "Vincent Belmehel",
+            "email": "vincent.belmehel@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*",
+        "squizlabs/php_codesniffer": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Phpatterns\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+          "Test\\Phpatterns\\": "tests"
+        }
+    }
+}
