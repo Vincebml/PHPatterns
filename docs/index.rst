@@ -16,13 +16,13 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
-   :numbered:
+    :maxdepth: 2
+    :numbered:
 
-   Behavioral patterns <docs/Behavioral/behavioral>
-   Creational patterns <docs/Creational/creational>
-   Structural patterns <docs/Structural/structural>
-   About <docs/about>
+       Behavioral patterns <Behavioral/behavioral>
+       Creational patterns <Creational/creational>
+       Structural patterns <Structural/structural>
+       About <docs/about>
 
 License
 -------
