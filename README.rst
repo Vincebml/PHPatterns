@@ -19,10 +19,10 @@ Contents
    :maxdepth: 2
    :numbered:
 
-   Behavioral patterns <Behavioral/behavioral>
-   Creational patterns <Creational/creational>
-   Structural patterns <Structural/structural>
-   about
+   Behavioral patterns <docs/Behavioral/behavioral>
+   Creational patterns <docs/Creational/creational>
+   Structural patterns <docs/Structural/structural>
+   About <docs/about>
 
 License
 -------
