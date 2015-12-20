@@ -30,31 +30,31 @@ Implementation
 --------------
 Door.php (the Receiver)
 
-.. literalinclude:: ../../../src/Behavioral/Command/Door.php
+.. literalinclude:: ../../src/Behavioral/Command/Door.php
     :linenos:
     :language: php
 
 ConnectedHomeCommandInterface.php (the Command Interface)
 
-.. literalinclude:: ../../../src/Behavioral/Command/ConnectedHomeCommandInterface.php
+.. literalinclude:: ../../src/Behavioral/Command/ConnectedHomeCommandInterface.php
     :linenos:
     :language: php
 
 LockDoorCommand.php (a concrete Command)
 
-.. literalinclude:: ../../../src/Behavioral/Command/ConnectedHomeCommand/LockDoorCommand.php
+.. literalinclude:: ../../src/Behavioral/Command/ConnectedHomeCommand/LockDoorCommand.php
     :linenos:
     :language: php
 
 UnlockDoorCommand.php (another concrete Command)
 
-.. literalinclude:: ../../../src/Behavioral/Command/ConnectedHomeCommand/UnlockDoorCommand.php
+.. literalinclude:: ../../src/Behavioral/Command/ConnectedHomeCommand/UnlockDoorCommand.php
     :linenos:
     :language: php
 
 ControlStation.php (the Invoker)
 
-.. literalinclude:: ../../../src/Behavioral/Command/ControlStation.php
+.. literalinclude:: ../../src/Behavioral/Command/ControlStation.php
     :linenos:
     :language: php
 
@@ -62,6 +62,6 @@ Tests
 -----
 CommandTest.php
 
-.. literalinclude:: ../../../tests/Behavioral/Command/CommandTest.php
+.. literalinclude:: ../../tests/Behavioral/Command/CommandTest.php
     :linenos:
     :language: php

@@ -33,37 +33,37 @@ Implementation
 --------------
 BreadInterface.php
 
-.. literalinclude:: ../../../src/Structural/Decorator/BreadInterface.php
+.. literalinclude:: ../../src/Structural/Decorator/BreadInterface.php
     :linenos:
     :language: php
 
 HoneyOatBread.php
 
-.. literalinclude:: ../../../src/Structural/Decorator/Bread/HoneyOatBread.php
+.. literalinclude:: ../../src/Structural/Decorator/Bread/HoneyOatBread.php
     :linenos:
     :language: php
 
 ItalianBread.php
 
-.. literalinclude:: ../../../src/Structural/Decorator/Bread/ItalianBread.php
+.. literalinclude:: ../../src/Structural/Decorator/Bread/ItalianBread.php
     :linenos:
     :language: php
 
 AbstractToppingDecorator.php
 
-.. literalinclude:: ../../../src/Structural/Decorator/AbstractToppingDecorator.php
+.. literalinclude:: ../../src/Structural/Decorator/AbstractToppingDecorator.php
     :linenos:
     :language: php
 
 Bacon.php
 
-.. literalinclude:: ../../../src/Structural/Decorator/Topping/Bacon.php
+.. literalinclude:: ../../src/Structural/Decorator/Topping/Bacon.php
     :linenos:
     :language: php
 
 Cheddar.php
 
-.. literalinclude:: ../../../src/Structural/Decorator/Topping/Cheddar.php
+.. literalinclude:: ../../src/Structural/Decorator/Topping/Cheddar.php
     :linenos:
     :language: php
 
@@ -71,6 +71,6 @@ Tests
 -----
 DecoratorTest.php
 
-.. literalinclude:: ../../../tests/Structural/Decorator/DecoratorTest.php
+.. literalinclude:: ../../tests/Structural/Decorator/DecoratorTest.php
     :linenos:
     :language: php

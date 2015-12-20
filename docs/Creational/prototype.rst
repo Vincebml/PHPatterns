@@ -27,31 +27,31 @@ Implementation
 --------------
 AbstractShapePrototype.php
 
-.. literalinclude:: ../../../src/Creational/Prototype/AbstractShapePrototype.php
+.. literalinclude:: ../../src/Creational/Prototype/AbstractShapePrototype.php
     :linenos:
     :language: php
 
 Circle.php
 
-.. literalinclude:: ../../../src/Creational/Prototype/Shape/Circle.php
+.. literalinclude:: ../../src/Creational/Prototype/Shape/Circle.php
     :linenos:
     :language: php
 
 Rectangle.php
 
-.. literalinclude:: ../../../src/Creational/Prototype/Shape/Rectangle.php
+.. literalinclude:: ../../src/Creational/Prototype/Shape/Rectangle.php
     :linenos:
     :language: php
 
 Color.php
 
-.. literalinclude:: ../../../src/Creational/Prototype/Color.php
+.. literalinclude:: ../../src/Creational/Prototype/Color.php
     :linenos:
     :language: php
 
 ShapeManager.php
 
-.. literalinclude:: ../../../src/Creational/Prototype/ShapeManager.php
+.. literalinclude:: ../../src/Creational/Prototype/ShapeManager.php
     :linenos:
     :language: php
 
@@ -59,6 +59,6 @@ Tests
 -----
 ShapePrototypeTest.php
 
-.. literalinclude:: ../../../tests/Creational/Prototype/ShapePrototypeTest.php
+.. literalinclude:: ../../tests/Creational/Prototype/ShapePrototypeTest.php
     :linenos:
     :language: php

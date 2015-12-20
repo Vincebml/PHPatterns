@@ -25,31 +25,31 @@ Implementation
 --------------
 AbstractColleague.php
 
-.. literalinclude:: ../../../src/Behavioral/Mediator/AbstractColleague.php
+.. literalinclude:: ../../src/Behavioral/Mediator/AbstractColleague.php
     :linenos:
     :language: php
 
 Customer.php
 
-.. literalinclude:: ../../../src/Behavioral/Mediator/Colleague/Customer.php
+.. literalinclude:: ../../src/Behavioral/Mediator/Colleague/Customer.php
     :linenos:
     :language: php
 
 Taxi.php
 
-.. literalinclude:: ../../../src/Behavioral/Mediator/Colleague/Taxi.php
+.. literalinclude:: ../../src/Behavioral/Mediator/Colleague/Taxi.php
     :linenos:
     :language: php
 
 TaxiCallCenterInterface.php
 
-.. literalinclude:: ../../../src/Behavioral/Mediator/TaxiCallCenterInterface.php
+.. literalinclude:: ../../src/Behavioral/Mediator/TaxiCallCenterInterface.php
     :linenos:
     :language: php
 
 YellowTaxiCallCenter.php
 
-.. literalinclude:: ../../../src/Behavioral/Mediator/TaxiCallCenter/YellowTaxiCallCenter.php
+.. literalinclude:: ../../src/Behavioral/Mediator/TaxiCallCenter/YellowTaxiCallCenter.php
     :linenos:
     :language: php
 
@@ -57,6 +57,6 @@ Tests
 -----
 MediatorTest.php
 
-.. literalinclude:: ../../../tests/Behavioral/Mediator/MediatorTest.php
+.. literalinclude:: ../../tests/Behavioral/Mediator/MediatorTest.php
     :linenos:
     :language: php

@@ -29,55 +29,55 @@ Implementation
 --------------
 BeerInterface.php
 
-.. literalinclude:: ../../../src/Creational/AbstractFactory/BeerInterface.php
+.. literalinclude:: ../../src/Creational/AbstractFactory/BeerInterface.php
     :linenos:
     :language: php
 
 Budweiser.php
 
-.. literalinclude:: ../../../src/Creational/AbstractFactory/Beer/Budweiser.php
+.. literalinclude:: ../../src/Creational/AbstractFactory/Beer/Budweiser.php
     :linenos:
     :language: php
 
 Heineken.php
 
-.. literalinclude:: ../../../src/Creational/AbstractFactory/Beer/Heineken.php
+.. literalinclude:: ../../src/Creational/AbstractFactory/Beer/Heineken.php
     :linenos:
     :language: php
 
 CocktailInterface.php
 
-.. literalinclude:: ../../../src/Creational/AbstractFactory/CocktailInterface.php
+.. literalinclude:: ../../src/Creational/AbstractFactory/CocktailInterface.php
     :linenos:
     :language: php
 
 LongIsland.php
 
-.. literalinclude:: ../../../src/Creational/AbstractFactory/Cocktail/LongIsland.php
+.. literalinclude:: ../../src/Creational/AbstractFactory/Cocktail/LongIsland.php
     :linenos:
     :language: php
 
 Mojito.php
 
-.. literalinclude:: ../../../src/Creational/AbstractFactory/Cocktail/Mojito.php
+.. literalinclude:: ../../src/Creational/AbstractFactory/Cocktail/Mojito.php
     :linenos:
     :language: php
 
 AbstractBarFactory.php
 
-.. literalinclude:: ../../../src/Creational/AbstractFactory/AbstractBarFactory.php
+.. literalinclude:: ../../src/Creational/AbstractFactory/AbstractBarFactory.php
     :linenos:
     :language: php
 
 FirstCheapBar.php
 
-.. literalinclude:: ../../../src/Creational/AbstractFactory/Bar/FirstCheapBar.php
+.. literalinclude:: ../../src/Creational/AbstractFactory/Bar/FirstCheapBar.php
     :linenos:
     :language: php
 
 SecondCheapBar.php
 
-.. literalinclude:: ../../../src/Creational/AbstractFactory/Bar/SecondCheapBar.php
+.. literalinclude:: ../../src/Creational/AbstractFactory/Bar/SecondCheapBar.php
     :linenos:
     :language: php
 
@@ -85,6 +85,6 @@ Tests
 -----
 AbstractBarFactoryTest.php
 
-.. literalinclude:: ../../../tests/Creational/AbstractFactory/AbstractBarFactoryTest.php
+.. literalinclude:: ../../tests/Creational/AbstractFactory/AbstractBarFactoryTest.php
     :linenos:
     :language: php

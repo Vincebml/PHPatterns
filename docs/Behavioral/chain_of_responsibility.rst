@@ -28,25 +28,25 @@ Implementation
 --------------
 Order.php
 
-.. literalinclude:: ../../../src/Behavioral/ChainOfResponsibility/Order.php
+.. literalinclude:: ../../src/Behavioral/ChainOfResponsibility/Order.php
     :linenos:
     :language: php
 
 AbstractOrderNotification.php
 
-.. literalinclude:: ../../../src/Behavioral/ChainOfResponsibility/AbstractOrderNotification.php
+.. literalinclude:: ../../src/Behavioral/ChainOfResponsibility/AbstractOrderNotification.php
     :linenos:
     :language: php
 
 PaidOrderNotification.php
 
-.. literalinclude:: ../../../src/Behavioral/ChainOfResponsibility/OrderNotification/PaidOrderNotification.php
+.. literalinclude:: ../../src/Behavioral/ChainOfResponsibility/OrderNotification/PaidOrderNotification.php
     :linenos:
     :language: php
 
 ShippedOrderNotification.php
 
-.. literalinclude:: ../../../src/Behavioral/ChainOfResponsibility/OrderNotification/ShippedOrderNotification.php
+.. literalinclude:: ../../src/Behavioral/ChainOfResponsibility/OrderNotification/ShippedOrderNotification.php
     :linenos:
     :language: php
 
@@ -54,6 +54,6 @@ Tests
 -----
 ChainOfResponsibilityTest.php
 
-.. literalinclude:: ../../../tests/Behavioral/ChainOfResponsibility/ChainOfResponsibilityTest.php
+.. literalinclude:: ../../tests/Behavioral/ChainOfResponsibility/ChainOfResponsibilityTest.php
     :linenos:
     :language: php

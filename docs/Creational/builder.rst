@@ -30,44 +30,44 @@ Implementation
 --------------
 TrafficMap.php
 
-.. literalinclude:: ../../../src/Creational/Builder/TrafficMap/TrafficMap.php
+.. literalinclude:: ../../src/Creational/Builder/TrafficMap/TrafficMap.php
     :linenos:
     :language: php
 
 Point.php
 
-.. literalinclude:: ../../../src/Creational/Builder/TrafficMap/Point.php
+.. literalinclude:: ../../src/Creational/Builder/TrafficMap/Point.php
     :linenos:
     :language: php
 
 Color.php
 
-.. literalinclude:: ../../../src/Creational/Builder/TrafficMap/Color.php
+.. literalinclude:: ../../src/Creational/Builder/TrafficMap/Color.php
     :linenos:
     :language: php
 
 
 TrafficMapBuilderInterface.php
 
-.. literalinclude:: ../../../src/Creational/Builder/TrafficMapBuilderInterface.php
+.. literalinclude:: ../../src/Creational/Builder/TrafficMapBuilderInterface.php
     :linenos:
     :language: php
 
 ParisToBerlinTrafficMapBuilder.php
 
-.. literalinclude:: ../../../src/Creational/Builder/ConcreteBuilder/ParisToBerlinTrafficMapBuilder.php
+.. literalinclude:: ../../src/Creational/Builder/ConcreteBuilder/ParisToBerlinTrafficMapBuilder.php
     :linenos:
     :language: php
 
 SanFranciscoToSantaCruzTrafficMapBuilder.php
 
-.. literalinclude:: ../../../src/Creational/Builder/ConcreteBuilder/SanFranciscoToSantaCruzTrafficMapBuilder.php
+.. literalinclude:: ../../src/Creational/Builder/ConcreteBuilder/SanFranciscoToSantaCruzTrafficMapBuilder.php
     :linenos:
     :language: php
 
 TrafficMapDirector.php
 
-.. literalinclude:: ../../../src/Creational/Builder/TrafficMapDirector.php
+.. literalinclude:: ../../src/Creational/Builder/TrafficMapDirector.php
     :linenos:
     :language: php
 
@@ -75,6 +75,6 @@ Tests
 -----
 TrafficMapDirectorTest.php
 
-.. literalinclude:: ../../../tests/Creational/Builder/TrafficMapDirectorTest.php
+.. literalinclude:: ../../tests/Creational/Builder/TrafficMapDirectorTest.php
     :linenos:
     :language: php

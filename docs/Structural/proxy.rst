@@ -25,25 +25,25 @@ Implementation
 --------------
 Employee.php
 
-.. literalinclude:: ../../../src/Structural/Proxy/Employee.php
+.. literalinclude:: ../../src/Structural/Proxy/Employee.php
     :linenos:
     :language: php
 
 WifiNetworkInterface.php
 
-.. literalinclude:: ../../../src/Structural/Proxy/WifiNetworkInterface.php
+.. literalinclude:: ../../src/Structural/Proxy/WifiNetworkInterface.php
     :linenos:
     :language: php
 
 WifiNetwork.php
 
-.. literalinclude:: ../../../src/Structural/Proxy/WifiNetwork.php
+.. literalinclude:: ../../src/Structural/Proxy/WifiNetwork.php
     :linenos:
     :language: php
 
 WifiNetworkProxy.php
 
-.. literalinclude:: ../../../src/Structural/Proxy/WifiNetworkProxy.php
+.. literalinclude:: ../../src/Structural/Proxy/WifiNetworkProxy.php
     :linenos:
     :language: php
 
@@ -51,6 +51,6 @@ Tests
 -----
 ProxyTest.php
 
-.. literalinclude:: ../../../tests/Structural/Proxy/ProxyTest.php
+.. literalinclude:: ../../tests/Structural/Proxy/ProxyTest.php
     :linenos:
     :language: php

@@ -45,13 +45,13 @@ Using Standard PHP Library (SPL)
 ________________________________
 Product.php
 
-.. literalinclude:: ../../../src/Behavioral/Observer/UsingSPL/Product.php
+.. literalinclude:: ../../src/Behavioral/Observer/UsingSPL/Product.php
     :linenos:
     :language: php
 
 ProductPriceObserver.php
 
-.. literalinclude:: ../../../src/Behavioral/Observer/UsingSPL/ProductPriceObserver.php
+.. literalinclude:: ../../src/Behavioral/Observer/UsingSPL/ProductPriceObserver.php
     :linenos:
     :language: php
 
@@ -59,25 +59,25 @@ Without Standard PHP Library (SPL)
 __________________________________
 SubjectInterface.php
 
-.. literalinclude:: ../../../src/Behavioral/Observer/WithoutSPL/SubjectInterface.php
+.. literalinclude:: ../../src/Behavioral/Observer/WithoutSPL/SubjectInterface.php
     :linenos:
     :language: php
 
 ObserverInterface.php
 
-.. literalinclude:: ../../../src/Behavioral/Observer/WithoutSPL/ObserverInterface.php
+.. literalinclude:: ../../src/Behavioral/Observer/WithoutSPL/ObserverInterface.php
     :linenos:
     :language: php
 
 Product.php
 
-.. literalinclude:: ../../../src/Behavioral/Observer/WithoutSPL/Product.php
+.. literalinclude:: ../../src/Behavioral/Observer/WithoutSPL/Product.php
     :linenos:
     :language: php
 
 ProductPriceObserver.php
 
-.. literalinclude:: ../../../src/Behavioral/Observer/WithoutSPL/ProductPriceObserver.php
+.. literalinclude:: ../../src/Behavioral/Observer/WithoutSPL/ProductPriceObserver.php
     :linenos:
     :language: php
 
@@ -87,13 +87,13 @@ Using Standard PHP Library (SPL)
 ________________________________
 ProductTest.php
 
-.. literalinclude:: ../../../tests/Behavioral/Observer/UsingSPL/ProductTest.php
+.. literalinclude:: ../../tests/Behavioral/Observer/UsingSPL/ProductTest.php
     :linenos:
     :language: php
 
 ProductPriceObserverTest.php
 
-.. literalinclude:: ../../../tests/Behavioral/Observer/UsingSPL/ProductPriceObserverTest.php
+.. literalinclude:: ../../tests/Behavioral/Observer/UsingSPL/ProductPriceObserverTest.php
     :linenos:
     :language: php
 
@@ -101,12 +101,12 @@ Without Standard PHP Library (SPL)
 __________________________________
 ProductTest.php
 
-.. literalinclude:: ../../../tests/Behavioral/Observer/WithoutSPL/ProductTest.php
+.. literalinclude:: ../../tests/Behavioral/Observer/WithoutSPL/ProductTest.php
     :linenos:
     :language: php
 
 ProductPriceObserverTest.php
 
-.. literalinclude:: ../../../tests/Behavioral/Observer/WithoutSPL/ProductPriceObserverTest.php
+.. literalinclude:: ../../tests/Behavioral/Observer/WithoutSPL/ProductPriceObserverTest.php
     :linenos:
     :language: php

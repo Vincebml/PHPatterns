@@ -26,37 +26,37 @@ Implementation
 --------------
 AbstractFighter.php
 
-.. literalinclude:: ../../../src/Structural/Bridge/AbstractFighter.php
+.. literalinclude:: ../../src/Structural/Bridge/AbstractFighter.php
     :linenos:
     :language: php
 
 God.php
 
-.. literalinclude:: ../../../src/Structural/Bridge/Fighter/God.php
+.. literalinclude:: ../../src/Structural/Bridge/Fighter/God.php
     :linenos:
     :language: php
 
 Human.php
 
-.. literalinclude:: ../../../src/Structural/Bridge/Fighter/Human.php
+.. literalinclude:: ../../src/Structural/Bridge/Fighter/Human.php
     :linenos:
     :language: php
 
 WeaponInterface.php
 
-.. literalinclude:: ../../../src/Structural/Bridge/WeaponInterface.php
+.. literalinclude:: ../../src/Structural/Bridge/WeaponInterface.php
     :linenos:
     :language: php
 
 Gun.php
 
-.. literalinclude:: ../../../src/Structural/Bridge/Weapon/Gun.php
+.. literalinclude:: ../../src/Structural/Bridge/Weapon/Gun.php
     :linenos:
     :language: php
 
 Knife.php
 
-.. literalinclude:: ../../../src/Structural/Bridge/Weapon/Knife.php
+.. literalinclude:: ../../src/Structural/Bridge/Weapon/Knife.php
     :linenos:
     :language: php
 
@@ -64,6 +64,6 @@ Tests
 -----
 BridgeTest.php
 
-.. literalinclude:: ../../../tests/Structural/Bridge/BridgeTest.php
+.. literalinclude:: ../../tests/Structural/Bridge/BridgeTest.php
     :linenos:
     :language: php

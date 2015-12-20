@@ -24,25 +24,25 @@ Implementation
 --------------
 Order.php
 
-.. literalinclude:: ../../../src/Behavioral/Memento/Order.php
+.. literalinclude:: ../../src/Behavioral/Memento/Order.php
     :linenos:
     :language: php
 
 OrderState.php
 
-.. literalinclude:: ../../../src/Behavioral/Memento/OrderState.php
+.. literalinclude:: ../../src/Behavioral/Memento/OrderState.php
     :linenos:
     :language: php
 
 Memento.php
 
-.. literalinclude:: ../../../src/Behavioral/Memento/Memento.php
+.. literalinclude:: ../../src/Behavioral/Memento/Memento.php
     :linenos:
     :language: php
 
 History.php
 
-.. literalinclude:: ../../../src/Behavioral/Memento/History.php
+.. literalinclude:: ../../src/Behavioral/Memento/History.php
     :linenos:
     :language: php
 
@@ -50,6 +50,6 @@ Tests
 -----
 MementoTest.php
 
-.. literalinclude:: ../../../tests/Behavioral/Memento/MementoTest.php
+.. literalinclude:: ../../tests/Behavioral/Memento/MementoTest.php
     :linenos:
     :language: php

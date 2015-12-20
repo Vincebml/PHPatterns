@@ -24,43 +24,43 @@ Implementation
 --------------
 InformationMatrix.php
 
-.. literalinclude:: ../../../src/Creational/FactoryMethod/InformationMatrix.php
+.. literalinclude:: ../../src/Creational/FactoryMethod/InformationMatrix.php
     :linenos:
     :language: php
 
 Code128.php (a special type of barcode)
 
-.. literalinclude:: ../../../src/Creational/FactoryMethod/Matrix/Code128.php
+.. literalinclude:: ../../src/Creational/FactoryMethod/Matrix/Code128.php
     :linenos:
     :language: php
 
 DataMatrix.php
 
-.. literalinclude:: ../../../src/Creational/FactoryMethod/Matrix/DataMatrix.php
+.. literalinclude:: ../../src/Creational/FactoryMethod/Matrix/DataMatrix.php
     :linenos:
     :language: php
 
 QRCode.php
 
-.. literalinclude:: ../../../src/Creational/FactoryMethod/Matrix/QRCode.php
+.. literalinclude:: ../../src/Creational/FactoryMethod/Matrix/QRCode.php
     :linenos:
     :language: php
 
 AbstractCodeGenerator.php
 
-.. literalinclude:: ../../../src/Creational/FactoryMethod/AbstractCodeGenerator.php
+.. literalinclude:: ../../src/Creational/FactoryMethod/AbstractCodeGenerator.php
     :linenos:
     :language: php
 
 BinaryCodeGenerator.php
 
-.. literalinclude:: ../../../src/Creational/FactoryMethod/Generator/BinaryCodeGenerator.php
+.. literalinclude:: ../../src/Creational/FactoryMethod/Generator/BinaryCodeGenerator.php
     :linenos:
     :language: php
 
 NumericCodeGenerator.php
 
-.. literalinclude:: ../../../src/Creational/FactoryMethod/Generator/NumericCodeGenerator.php
+.. literalinclude:: ../../src/Creational/FactoryMethod/Generator/NumericCodeGenerator.php
     :linenos:
     :language: php
 
@@ -68,6 +68,6 @@ Tests
 -----
 CodeGeneratorTest.php
 
-.. literalinclude:: ../../../tests/Creational/FactoryMethod/CodeGeneratorTest.php
+.. literalinclude:: ../../tests/Creational/FactoryMethod/CodeGeneratorTest.php
     :linenos:
     :language: php

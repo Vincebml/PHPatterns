@@ -29,31 +29,31 @@ Implementation
 --------------
 BulletFactory.php
 
-.. literalinclude:: ../../../src/Structural/Flyweight/BulletFactory.php
+.. literalinclude:: ../../src/Structural/Flyweight/BulletFactory.php
     :linenos:
     :language: php
 
 BulletInterface.php
 
-.. literalinclude:: ../../../src/Structural/Flyweight/BulletInterface.php
+.. literalinclude:: ../../src/Structural/Flyweight/BulletInterface.php
     :linenos:
     :language: php
 
 BlankBullet.php
 
-.. literalinclude:: ../../../src/Structural/Flyweight/Bullet/BlankBullet.php
+.. literalinclude:: ../../src/Structural/Flyweight/Bullet/BlankBullet.php
     :linenos:
     :language: php
 
 ExpandingBullet.php
 
-.. literalinclude:: ../../../src/Structural/Flyweight/Bullet/ExpandingBullet.php
+.. literalinclude:: ../../src/Structural/Flyweight/Bullet/ExpandingBullet.php
     :linenos:
     :language: php
 
 Gun.php
 
-.. literalinclude:: ../../../src/Structural/Flyweight/Gun.php
+.. literalinclude:: ../../src/Structural/Flyweight/Gun.php
     :linenos:
     :language: php
 
@@ -61,6 +61,6 @@ Tests
 -----
 FlyweightTest.php
 
-.. literalinclude:: ../../../tests/Structural/Flyweight/FlyweightTest.php
+.. literalinclude:: ../../tests/Structural/Flyweight/FlyweightTest.php
     :linenos:
     :language: php

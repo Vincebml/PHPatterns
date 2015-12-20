@@ -35,7 +35,7 @@ Implementation
 --------------
 Logger.php
 
-.. literalinclude:: ../../../src/Creational/Singleton/Logger.php
+.. literalinclude:: ../../src/Creational/Singleton/Logger.php
    :linenos:
    :language: php
 
@@ -43,6 +43,6 @@ Tests
 -----
 LoggerTest.php
 
-.. literalinclude:: ../../../tests/Creational/Singleton/LoggerTest.php
+.. literalinclude:: ../../tests/Creational/Singleton/LoggerTest.php
    :linenos:
    :language: php

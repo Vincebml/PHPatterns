@@ -29,31 +29,31 @@ Implementation
 --------------
 ATMFacade.php
 
-.. literalinclude:: ../../../src/Structural/Facade/ATMFacade.php
+.. literalinclude:: ../../src/Structural/Facade/ATMFacade.php
     :linenos:
     :language: php
 
 Bank.php
 
-.. literalinclude:: ../../../src/Structural/Facade/Bank.php
+.. literalinclude:: ../../src/Structural/Facade/Bank.php
     :linenos:
     :language: php
 
 Account.php
 
-.. literalinclude:: ../../../src/Structural/Facade/Account.php
+.. literalinclude:: ../../src/Structural/Facade/Account.php
     :linenos:
     :language: php
 
 Customer.php
 
-.. literalinclude:: ../../../src/Structural/Facade/Customer.php
+.. literalinclude:: ../../src/Structural/Facade/Customer.php
     :linenos:
     :language: php
 
 CreditCard.php
 
-.. literalinclude:: ../../../src/Structural/Facade/CreditCard.php
+.. literalinclude:: ../../src/Structural/Facade/CreditCard.php
     :linenos:
     :language: php
 
@@ -61,6 +61,6 @@ Tests
 -----
 FacadeTest.php
 
-.. literalinclude:: ../../../tests/Structural/Facade/FacadeTest.php
+.. literalinclude:: ../../tests/Structural/Facade/FacadeTest.php
     :linenos:
     :language: php

@@ -24,31 +24,31 @@ Implementation
 --------------
 ShipmentElementInterface.php
 
-.. literalinclude:: ../../../src/Structural/Composite/ShipmentElementInterface.php
+.. literalinclude:: ../../src/Structural/Composite/ShipmentElementInterface.php
     :linenos:
     :language: php
 
 Element.php
 
-.. literalinclude:: ../../../src/Structural/Composite/ShipmentElement/Element.php
+.. literalinclude:: ../../src/Structural/Composite/ShipmentElement/Element.php
     :linenos:
     :language: php
 
 Box.php
 
-.. literalinclude:: ../../../src/Structural/Composite/ShipmentElement/Box.php
+.. literalinclude:: ../../src/Structural/Composite/ShipmentElement/Box.php
     :linenos:
     :language: php
 
 Pallet.php
 
-.. literalinclude:: ../../../src/Structural/Composite/ShipmentElement/Pallet.php
+.. literalinclude:: ../../src/Structural/Composite/ShipmentElement/Pallet.php
     :linenos:
     :language: php
 
 Shipment.php
 
-.. literalinclude:: ../../../src/Structural/Composite/Shipment.php
+.. literalinclude:: ../../src/Structural/Composite/Shipment.php
     :linenos:
     :language: php
 
@@ -56,6 +56,6 @@ Tests
 -----
 CompositeTest.php
 
-.. literalinclude:: ../../../tests/Structural/Composite/CompositeTest.php
+.. literalinclude:: ../../tests/Structural/Composite/CompositeTest.php
     :linenos:
     :language: php
