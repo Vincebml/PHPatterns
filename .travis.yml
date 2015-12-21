@@ -15,4 +15,4 @@ install:
   - composer install
 
 script:
-  - vendor/bin/phpunit --include-path="tests/"
+  - vendor/bin/phpunit tests/
