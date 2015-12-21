@@ -1,5 +1,6 @@
 # PHPatterns project
 
+[![Build Status](https://travis-ci.org/Vincebml/PHPatterns.svg?branch=master)](https://travis-ci.org/Vincebml/PHPatterns)
 [![Documentation Status](https://readthedocs.org/projects/phpatterns/badge/?version=latest)](http://phpatterns.readthedocs.org/en/latest/?badge=latest)
 
 I have read the well-known book: [Design Patterns - Elements of Reusable Object-Oriented Software](http://en.wikipedia.org/wiki/Design_Patterns)  
