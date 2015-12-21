@@ -25,10 +25,21 @@ class DecoratorTest extends \PHPUnit_Framework_TestCase
      * Decorator pattern requirement: the decorator must be type hinted
      * (with BreadInterface interface in our case)
      *
-     * @expectedException \PHPUnit_Framework_Error
      */
     public function testToppingDecoratorConstructor()
     {
+        /*
+         * In PHP 7, a TypeError exception is thrown when arguments' types
+         * passed to a function do not match their corresponding declared
+         * parameters.
+         * see http://php.net/manual/en/class.typeerror.php
+         */
+        if (version_compare(PHP_VERSION, '7', '>=')) {
+            $this->setExpectedException('TypeError');
+        } else {
+            $this->setExpectedException('PHPUnit_Framework_Error');
+        }
+
         $this->getMockForAbstractClass(
             Decorator\AbstractToppingDecorator::class,
             [new \stdClass()]
