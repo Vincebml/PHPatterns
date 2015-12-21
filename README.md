@@ -1,6 +1,6 @@
 # PHPatterns project
 
-[![Documentation Status](https://readthedocs.org/projects/phpatterns/badge/?version=latest)](http://phpatterns.com/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/phpatterns/badge/?version=latest)](http://phpatterns.readthedocs.org/en/latest/?badge=latest)
 
 I have read the well-known book: [Design Patterns - Elements of Reusable Object-Oriented Software](http://en.wikipedia.org/wiki/Design_Patterns)  
 written by the Gang of Four (Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides).
