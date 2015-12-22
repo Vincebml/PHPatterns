@@ -22,7 +22,7 @@ Contents
        Behavioral patterns <Behavioral/behavioral>
        Creational patterns <Creational/creational>
        Structural patterns <Structural/structural>
-       About <docs/about>
+       About <about>
 
 License
 -------
