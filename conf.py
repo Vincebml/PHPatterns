@@ -67,7 +67,7 @@ release = '1.0'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = []
+exclude_patterns = ['README.md']
 
 # The reST default role (used for this markup: `text`) to use for all
 # documents.
@@ -86,7 +86,6 @@ exclude_patterns = []
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
-
 # A list of ignored prefixes for module index sorting.
 #modindex_common_prefix = []
 
