@@ -10,3 +10,4 @@ In a nutshell, behavioral patterns deal with objects' interactions and responsib
    mediator
    memento
    observer
+   strategy

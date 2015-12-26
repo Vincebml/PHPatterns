@@ -8,6 +8,7 @@ Each structural pattern has a different purpose.
 .. toctree::
    :maxdepth: 1
 
+   adapter
    bridge
    composite
    decorator
