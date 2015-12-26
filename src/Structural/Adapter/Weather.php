@@ -19,28 +19,4 @@ class Weather
         $this->humidity = $humidity;
         $this->pressure = $pressure;
     }
-
-    /**
-     * @return float
-     */
-    public function getTemperature()
-    {
-        return $this->temperature;
-    }
-
-    /**
-     * @return float
-     */
-    public function getHumidity()
-    {
-        return $this->humidity;
-    }
-
-    /**
-     * @return float
-     */
-    public function getPressure()
-    {
-        return $this->pressure;
-    }
 }
