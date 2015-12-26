@@ -5,6 +5,8 @@ that eases the design?
 
 Each structural pattern has a different purpose.
 
+You can have a look at the source code on `GitHub <https://github.com/Vincebml/PHPatterns/tree/master/src/Structural>`_
+
 .. toctree::
    :maxdepth: 1
 

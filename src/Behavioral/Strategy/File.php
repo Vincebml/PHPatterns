@@ -4,14 +4,10 @@ namespace Phpatterns\Behavioral\Strategy;
 
 class File
 {
-    /**
-     * @var string
-     */
+    /** @var string */
     private $path;
 
-    /**
-     * @param $path
-     */
+    /** @param $path */
     public function __construct($path)
     {
         $this->path = $path;

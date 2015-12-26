@@ -10,6 +10,8 @@ language used at work).
 Each pattern is documented and unit tested using `PHPUnit <https://phpunit.de>`_.
 Like the book, it's a catalog of 23 patterns and you should consider it as a basis for learning purposes.
 
+You can have a look at the source code on `GitHub <https://github.com/Vincebml/PHPatterns>`_
+
 Found a typo? Something wrong with this content? Just let me know and please feel free to contribute!
 
 Contents
