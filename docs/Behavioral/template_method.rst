@@ -15,11 +15,12 @@ Principle: don't call us, we'll call you <https://en.wikipedia.org/wiki/Hollywoo
 When to use it?
 ---------------
 The Template Method pattern should be used in various cases:
+
   - you want to implement the invariant parts of a algorithm and give subclasses the ability to customize varying parts
-   using method overriding
+    using method overriding
   - you are concerned about code duplication and you want to avoid it (see first bullet)
   - you have to control inheritance and how it is performed. Just the varying part of a method will be rewritten (it
-  will not be entirely rewritten)
+    will not be entirely rewritten)
 
 Diagram
 -------
@@ -32,16 +33,19 @@ Created using PhpStorm and yFiles.
 Implementation
 --------------
 AbstractOneManShow.php
+
 .. literalinclude:: ../../src/Behavioral/TemplateMethod/AbstractOneManShow.php
     :linenos:
     :language: php
 
 FirstOneManShow.php
+
 .. literalinclude:: ../../src/Behavioral/TemplateMethod/OneManShow/FirstOneManShow.php
     :linenos:
     :language: php
 
 SecondOneManShow.php
+
 .. literalinclude:: ../../src/Behavioral/TemplateMethod/OneManShow/SecondOneManShow.php
     :linenos:
     :language: php

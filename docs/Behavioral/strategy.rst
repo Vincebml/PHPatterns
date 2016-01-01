@@ -10,6 +10,7 @@ and make them interchangeable. Strategy lets the algorithm vary independently fr
 When to use it?
 ---------------
 The Strategy pattern should be used in various cases:
+
   - several classes differ only in their behavior (Strategy pattern lets you "attach" a behavior to a class)
   - different variants of an algorithm are needed
   - algorithms deal with data that should be hidden from the client

@@ -11,6 +11,7 @@ state changes. The object will appear to change its class."
 When to use it?
 ---------------
 The State pattern should be used in mainly two different cases:
+
   - the behavior of an object depends on its state, and the behavior have to change dynamically (according to the state)
   - lots of conditional structures are used to handle what to do depending on the state of the object
 
