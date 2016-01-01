@@ -8,7 +8,7 @@ operation, deferring some steps to subclasses. Template Method lets subclasses r
 without changing the algorithm's structure"
 (Design Patterns: Elements of Reusable Object-Oriented Software, 2013, p.325).
 
-As stated in the book, the Template Method pattern leads to an example of `inversion of control
+As stated in the book, the Template Method pattern leads to an example of `inversion of control (IoC)
 <https://en.wikipedia.org/wiki/Inversion_of_control>`_ principle which is sometimes referred to as the `Hollywood
 Principle: don't call us, we'll call you <https://en.wikipedia.org/wiki/Hollywood_principle>`_.
 

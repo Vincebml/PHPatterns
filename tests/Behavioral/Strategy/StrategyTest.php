@@ -16,7 +16,7 @@ class StrategyTest extends \PHPUnit_Framework_TestCase
     /** @var Strategy\File */
     private $file;
 
-    public function setUp()
+    protected function setUp()
     {
         $this->csvStrategy = new Export\CsvExport();
         $this->pdfStrategy = new Export\PdfExport();

@@ -15,3 +15,4 @@ You can have a look at the source code on `GitHub <https://github.com/Vincebml/P
    state
    strategy
    Template method <template_method>
+   visitor

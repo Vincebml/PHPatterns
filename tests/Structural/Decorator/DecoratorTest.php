@@ -48,6 +48,10 @@ class DecoratorTest extends \PHPUnit_Framework_TestCase
 
     /**
      * Testing the decorator mechanism + descriptions and prices
+     * @param Decorator\BreadInterface $bread
+     * @param Decorator\AbstractToppingDecorator $decorators
+     * @param string $description
+     * @param float $price
      * @dataProvider decoratorProvider
      */
     public function testDecoratorMechanism($bread, $decorators, $description, $price)

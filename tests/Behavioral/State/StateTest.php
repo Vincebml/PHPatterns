@@ -10,7 +10,7 @@ class StateTest extends \PHPUnit_Framework_TestCase
     /** @var State\Booking */
     private $booking;
 
-    public function setUp()
+    protected function setUp()
     {
         $this->booking = new State\Booking();
     }
