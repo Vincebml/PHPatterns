@@ -9,7 +9,7 @@ class Booking
 
     /**
      * @throws \Exception
-     * @return boolean
+     * @return bool
      */
     public function cancel()
     {
@@ -18,7 +18,7 @@ class Booking
 
     /**
      * @throws \Exception
-     * @return boolean
+     * @return bool
      */
     public function pay()
     {
@@ -27,7 +27,7 @@ class Booking
 
     /**
      * @throws \Exception
-     * @return boolean
+     * @return bool
      */
     public function reserve()
     {

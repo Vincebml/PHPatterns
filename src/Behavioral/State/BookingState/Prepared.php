@@ -37,7 +37,7 @@ class Prepared implements State\BookingStateInterface
     /**
      * @param State\Booking $booking
      * @throws \Exception
-     * @return boolean
+     * @return bool
      */
     public function reserve(State\Booking $booking)
     {

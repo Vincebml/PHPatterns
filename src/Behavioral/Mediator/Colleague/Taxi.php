@@ -19,7 +19,7 @@ class Taxi extends Mediator\AbstractColleague
     }
 
     /**
-     * @param boolean $available
+     * @param bool $available
      */
     public function setAvailable($available)
     {

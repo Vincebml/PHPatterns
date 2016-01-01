@@ -9,7 +9,7 @@ class Cancelled implements State\BookingStateInterface
     /**
      * @param State\Booking $booking
      * @throws \Exception
-     * @return boolean
+     * @return bool
      */
     public function cancel(State\Booking $booking)
     {
@@ -19,7 +19,7 @@ class Cancelled implements State\BookingStateInterface
     /**
      * @param State\Booking $booking
      * @throws \Exception
-     * @return boolean
+     * @return bool
      */
     public function pay(State\Booking $booking)
     {
@@ -29,7 +29,7 @@ class Cancelled implements State\BookingStateInterface
     /**
      * @param State\Booking $booking
      * @throws \Exception
-     * @return boolean
+     * @return bool
      */
     public function reserve(State\Booking $booking)
     {
