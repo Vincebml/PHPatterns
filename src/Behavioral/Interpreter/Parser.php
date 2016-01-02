@@ -10,12 +10,12 @@ class Parser
     private $expressionTree;
 
     /**
-     * @param string $expression
+     * @param string $strExpression
      */
-    public function __construct($expression)
+    public function __construct($strExpression)
     {
         $expressionStack = [];
-        foreach (explode(' ', $expression) as $part) {
+        foreach (explode(' ', $strExpression) as $part) {
             if ('*' === $part) {
                 $right = array_pop($expressionStack);
                 $left = array_pop($expressionStack);
