@@ -6,10 +6,10 @@ use Phpatterns\Behavioral\Interpreter;
 
 class Plus implements Interpreter\ExpressionInterface
 {
-    /** @var Number */
+    /** @var Interpreter\ExpressionInterface */
     private $left;
 
-    /** @var Number */
+    /** @var Interpreter\ExpressionInterface */
     private $right;
 
     public function __construct(Interpreter\ExpressionInterface $left, Interpreter\ExpressionInterface $right)
