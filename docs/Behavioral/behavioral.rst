@@ -9,6 +9,7 @@ You can have a look at the source code on `GitHub <https://github.com/Vincebml/P
 
    Chain of responsibility <chain_of_responsibility>
    command
+   interpreter
    iterator
    mediator
    memento
