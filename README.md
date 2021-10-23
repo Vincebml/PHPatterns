@@ -13,7 +13,7 @@ Like the book, it's a catalog of 23 patterns and you should consider it as a bas
 Found a typo? Something wrong with this content? Just let me know and please feel free to contribute!
 
 ## Documentation
-Have a look at [www.phpatterns.com](http://www.phpatterns.com)!
+Have a look at [https://phpatterns.readthedocs.io](https://phpatterns.readthedocs.io/en/latest)!
 
 ## License
 The MIT License (read the LICENSE file).
